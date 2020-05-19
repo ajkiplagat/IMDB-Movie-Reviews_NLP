@@ -10,7 +10,7 @@ Data Source: https://ai.stanford.edu/~amaas/data/sentiment/
 
 - 01 - Converts .txt into .csv files for further analysis
 - 02 - Classification of test data using SVC and logistic regression. 
-      - Overall Accuracy of a baseline model: 50 % 
-      - "  " for Linear SVC Model: 87.7 %
-      - "  "  for Logistic Regression Model: 88.3 %
+- Overall Accuracy of a baseline model: 50 % 
+- "  " for Linear SVC Model: 87.7 %
+- "  "  for Logistic Regression Model: 88.3 %
 
